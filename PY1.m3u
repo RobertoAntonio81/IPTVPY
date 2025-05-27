@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-13 tvg-logo"https://i.postimg.cc/CLC01cXF/logo-png.png"group-title="NACIONALES", CAMBYRETA TV
+https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8
 
 #EXTINF:-14 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIMTV
 https://live.limplay.ml/limtv.m3u8
