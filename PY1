@@ -1,6 +1,9 @@
 
 EXTM3U
- 
+
+#EXTINF:-1,CAMBYRETA TV
+https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8
+
 #EXTINF:-1,RCN TV
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
