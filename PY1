@@ -19,6 +19,11 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_
 #EXTINF:-6,MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
+EXTM3U
+#EXTINF:-6,CAMBYRETA TV
+https://cloudtv.streaming.com.py/cambyretatv/cambyretatv/playlist.m3u8
+
+
 #EXTINF:-7,VISIÓN VILLARRICA
 http://inliveserver.com:1935/8312/8312/playlist.m3u8
 
